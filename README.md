@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tech related:
+
+React, React hooks, React testing library, React Material-UI, Eslint, HTML, CSS.
 
 ## Available Scripts
 
